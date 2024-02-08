@@ -14,7 +14,7 @@ Native dashboard using Azure Dashboard to monitor Azure Health Data Services FHI
 Various tiles are used to represent parts of the import jobs and the application generating the metrics.
 
 1. Job count by status
-1. TOtal completed resource count by type
+1. Total completed resource count by type
 1. Total failed resource count by type
 1. Count of running import jobs
 1. Count of completed import jobs
